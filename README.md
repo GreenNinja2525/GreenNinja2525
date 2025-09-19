@@ -5,6 +5,10 @@ Here is the game, fully playable in your browser!
 
 https://www.lexaloffle.com/bbs/?tid=55073
 
+I have a Youtube Channel! Watch my videos here!
+
+https://www.youtube.com/@GreenNinja2525
+
 🔭 I’m currently working on https://github.com/cellos51/balatro-gba with a bunch of other people! I really enjoy making art for this project!
 
 I will update this repository when I get around to making more stuff!
